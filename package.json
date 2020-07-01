@@ -1,0 +1,23 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "Learning notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuzengxi123/study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wuzengxi123/study/issues"
+  },
+  "homepage": "https://github.com/Wuzengxi123/study#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
